@@ -4115,6 +4115,21 @@
   ]
  },
  {
+  "address": "0:4fa6b3bb116d40d75d02e19ec9ab6b65ff63f1106cd82704d2fd482499a94ef8",
+  "description": "GoldAge ingame currency.",
+  "image": "https://play.goldage.io/token/logo.png",
+  "name": "GoldAge gold",
+  "social": [
+   "https://t.me/goldagechat",
+   "https://t.me/goldagegame",
+   "https://x.com/goldagegame"
+  ],
+  "symbol": "GDA",
+  "websites": [
+   "https://goldage.io/"
+  ]
+ },
+ {
   "address": "0:ba8a3faec89a86420effffdaf9b45b9f0e3d2a2441d8eac33b2bdd3265582a04",
   "description": "GoldVerse is a launch platform based on TON, designed to provide a fair, transparent, and secure environment for emerging projects to successfully launch and gain community support.",
   "image": "https://static.goldverse.io/logo.jpg",
