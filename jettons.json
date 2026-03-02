@@ -9614,6 +9614,19 @@
   "symbol": "USD\u20ae-BEHT LP"
  },
  {
+  "address": "0:659dc35afe8e9718cdcc0236c9ae487e5a821f51f5b1b7cd4bfdc8b1826b3cf7",
+  "description": "Liquidity pool token for Tether USD and CactusAdictos on STON.fi DEX",
+  "name": "LP Token for USDT-Cactuscoin",
+  "social": [
+   "https://www.instagram.com/cactusadictos",
+   "https://x.com/CactusAdictos"
+  ],
+  "symbol": "USDT-Cactuscoin-LP",
+  "websites": [
+   "https://t.me/cactusadictos"
+  ]
+ },
+ {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
   "description": "Native Tether USD locked in liquidity in Storm Trade (storm.tg)",
   "image": "https://static.storm.tg/usdt-slp-logo.png",
