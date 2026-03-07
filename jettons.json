@@ -598,6 +598,30 @@
   ]
  },
  {
+  "address": "0:3e5befa42356b2e8891369c63f524ccea65abcb3094377dcff961db58c91b31f",
+  "description": "Liquidity pool token for Proxy TON and ANTON on STON.fi DEX",
+  "name": "LP Token for pTON-ANTON",
+  "symbol": "pTON-ANTON LP"
+ },
+ {
+  "address": "0:dba10ffa26fc425887ba51dab9eb48534377bf4e4cf36990f4c9b4d0f2345451",
+  "description": "Liquidity pool token for ANTON and Tether USD on STON.fi DEX",
+  "name": "LP Token for ANTON-USD\u20ae",
+  "symbol": "ANTON-USD\u20ae LP"
+ },
+ {
+  "address": "0:9e57dfa8c55c49f283efc38e95cf61c3015301639a6e10d2409e19542379e9ea",
+  "description": "ANTON is a community meme token",
+  "name": "ANTON",
+  "social": [
+   "https://t.me/antontokenbot"
+  ],
+  "symbol": "ANTON",
+  "websites": [
+   "https://app.asmerdov.com/"
+  ]
+ },
+ {
   "address": "0:ceaf34312ace94e6427869e99b97fc6f8d7fcb8c9b6165219bc4e27a1ddfc403",
   "description": "Agent 301 is a Telegram-based Do2Earn game with mini-games and social tasks. The $AP token powers in-game energy, boosts, staking, voting, and premium access.",
   "name": "Agent Points",
@@ -1154,6 +1178,24 @@
   ]
  },
  {
+  "address": "0:ef1e67257999d8bb97f4c1a3f4712cbebec97d19f9d73245bfb0173bdb5c01cb",
+  "description": "BehLand is a Web3 learning ecosystem designed to transform education into real economic value.",
+  "image": "https://cdn.beh.land/token/token-logo.jpg",
+  "name": "BehToken",
+  "social": [
+   "https://t.me/BehLand_Official",
+   "https://t.me/BehLand_gp",
+   "https://x.com/behlandOfficial",
+   "https://youtube.com/@behlandOfficial",
+   "https://instagram.com/behlandOfficial"
+  ],
+  "symbol": "BEHT",
+  "websites": [
+   "https://beh.land/en",
+   "https://dex.beh.land/en"
+  ]
+ },
+ {
   "address": "0:1bff21e5450f0770ef68a9a4e3301ffb32fa6afea45ab567b7a29b08716b2add",
   "description": "\u0412\u044b \u0441\u043b\u044b\u0448\u0430\u043b\u0438 \u0448\u0435\u043f\u043e\u0442. \u0412\u044b \u043d\u0430\u0448\u043b\u0438 \u0441\u043b\u0435\u0434\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u044f \u0440\u0430\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u0440\u044b\u043b\u044c\u044f.",
   "image": "https://iili.io/fd49ccQ.jpg",
@@ -1648,7 +1690,7 @@
   "image": "https://blaziumapp.xyz/blzlogo.jpg",
   "name": "Blazium",
   "social": [
-   "https://t.me/BLAZIUMCRYPTO",
+   "https://t.me/blaziumofficial",
    "https://t.me/blaziumtoken",
    "https://x.com/BLAZIUMCRYPTO"
   ],
@@ -1659,13 +1701,12 @@
  },
  {
   "address": "0:a01ff17431ffc210d38c3c502c06ca85fc16a3f1991ba5243937a95181f45d94",
-  "description": "Block Card Query is a mini-app for analyzing blockchain transactions. Track wallet activity, find whales and investigate suspicious transactions.",
-  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcgh_f0mf_cenompfasbsqf_baj8zkbpsq5n6lrgfrdlkij.png?size=lg&key=c4170f",
+  "description": "Block Card - creators of the 3D open-world strategy game Galaxy Card - on Telegram.",
+  "image": "https://i.postimg.cc/Y2F0n9d0/bc-logoetw32.png",
   "name": "Block Card",
   "social": [
    "https://t.me/blockcard_bc",
-   "https://youtube.com/@blockcard_bc",
-   "https://x.com/BlockCardTON"
+   "https://t.me/GalaxyCard_Bot"
   ],
   "symbol": "BC"
  },
@@ -4045,18 +4086,6 @@
   ]
  },
  {
-  "address": "0:23ebcd016a99ed0c49baa5aad7e017d7fd2d4971bd6aa45eb70511221d960118",
-  "image": "https://gattogame.github.io/Gatto/500x500.png",
-  "name": "Gatto",
-  "social": [
-   "https://t.me/gatto_game"
-  ],
-  "symbol": "GTON",
-  "websites": [
-   "https://t.me/gatto_gamebot"
-  ]
- },
- {
   "address": "0:a13f0f6bc3de006f65d8b89c3827bb96a2a7049eb431b260d97a907d4cf68a89",
   "description": "GBT is a memetoken of the car showroom GegabyteAuto",
   "name": "GEGABYTEAUTO",
@@ -4070,6 +4099,21 @@
   "symbol": "GBT",
   "websites": [
    "-"
+  ]
+ },
+ {
+  "address": "0:4fa6b3bb116d40d75d02e19ec9ab6b65ff63f1106cd82704d2fd482499a94ef8",
+  "description": "GoldAge ingame currency.",
+  "image": "https://play.goldage.io/token/logo.png",
+  "name": "GoldAge gold",
+  "social": [
+   "https://t.me/goldagechat",
+   "https://t.me/goldagegame",
+   "https://x.com/goldagegame"
+  ],
+  "symbol": "GDA",
+  "websites": [
+   "https://goldage.io/"
   ]
  },
  {
@@ -4361,6 +4405,18 @@
   "symbol": "GWT",
   "websites": [
    "https://goblinmine.game/"
+  ]
+ },
+ {
+  "address": "0:caf884eb99d59f9ece886ec7bdc5dc3f2b95404408a11a268c7afd2492a13353",
+  "image": "https://gattogame.github.io/Gatto/500x500.png",
+  "name": "Gatto Game Token",
+  "social": [
+   "https://t.me/gatto_game"
+  ],
+  "symbol": "GTON",
+  "websites": [
+   "https://gatto.pw"
   ]
  },
  {
@@ -6217,6 +6273,18 @@
   ]
  },
  {
+  "address": "0:14b15165b095367a07f9c519122cade3f2c22de7aace3640689178868ddbc1c3",
+  "decimals": 9,
+  "description": "NDT (NFT DARK TRIAD) is a community token on the TON blockchain. Our goal is to build a strong community around the TON ecosystem.",
+  "image": "https://github.com/Niko201-nv/not-logo/blob/main/IMG_3274.jpeg?raw=true",
+  "name": "NFT DARK TRIAD",
+  "social": [
+   "https://t.me/NFT_Dark_Triad",
+   "https://t.me/dark_triad_chat_l"
+  ],
+  "symbol": "NDT"
+ },
+ {
   "address": "0:a70874806897696a82d2f8c91a25f09e28b5159e3cc0f1501e30a0233cbe832c",
   "description": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d \u043e\u0442 \u0431\u0440\u0435\u043d\u0434\u0430 NEDOSTUPNOST\u042c. \u0421\u043e\u0437\u0434\u0430\u043d \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0432\u043e \u0438\u0437\u0431\u0435\u0436\u0430\u043d\u0438\u0435 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0446\u0438\u0439 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0441\u043a\u0430\u043c-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432, \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 \u044d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 \u0432 \u043d\u0430\u0448\u0435\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c Telegram \u043a\u0430\u043d\u0430\u043b\u0435.",
   "image": "https://trueimages.ru/img/cb/c8/a56b1e76.png",
@@ -6866,7 +6934,7 @@
   "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",
   "name": "Palladium",
   "social": [
-   "https://t.me/Palladium_venture_foundation"
+   "https://t.me/Palladium_core"
   ],
   "symbol": "PLD",
   "websites": [
@@ -7916,7 +7984,7 @@
   "symbol": "SNT"
  },
  {
-  "address": "0:ae9e9d8ce4ea7889e647eb3742aafd60c3e800484a0d49723253b98cf94df63c",
+  "address": "0:045e1c9fc088cf687d565c14ca556db6ad5a8b8b45e6bfa42da6bdf809fdde9d",
   "description": "Have you noticed how many people are afraid of people... Sociafober - First 3D GameFi-story in Telegram",
   "image": "https://sociafober.me/logo.svg",
   "name": "Sociafober",
@@ -9588,6 +9656,25 @@
    "https://www.instagram.com/unitaet_insta/"
   ],
   "symbol": "UNITF"
+ },
+ {
+  "address": "0:7b9a1fa614ea70c26cc2b8bb9edde12b12913b3d7deffcab54ef2471dcf6ec14",
+  "description": "Liquidity pool token for BEHT and on ston.fi DEX",
+  "name": "LP Token for USD\u20ae-BEHT",
+  "symbol": "USD\u20ae-BEHT LP"
+ },
+ {
+  "address": "0:659dc35afe8e9718cdcc0236c9ae487e5a821f51f5b1b7cd4bfdc8b1826b3cf7",
+  "description": "Liquidity pool token for Tether USD and CactusAdictos on STON.fi DEX",
+  "name": "LP Token for USDT-Cactuscoin",
+  "social": [
+   "https://www.instagram.com/cactusadictos",
+   "https://x.com/CactusAdictos"
+  ],
+  "symbol": "USDT-Cactuscoin-LP",
+  "websites": [
+   "https://t.me/cactusadictos"
+  ]
  },
  {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
