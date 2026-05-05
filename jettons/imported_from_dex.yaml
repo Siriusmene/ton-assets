@@ -979,9 +979,6 @@
 - address: 0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9
   name: Slowpoke
   symbol: SLOW
-- address: 0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63
-  name: SAFEMOON
-  symbol: SMOON
 - address: 0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2
   name: "Sushi\u2019n\u2019Girls"
   symbol: SNG
@@ -1238,9 +1235,6 @@
 - address: 0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090
   name: TGFoundation
   symbol: Telegram
-- address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
-  name: Token 69
-  symbol: Token 69
 - address: 0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce
   name: Ton Doge Coin
   symbol: TonDoge
