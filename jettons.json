@@ -7175,6 +7175,17 @@
   ]
  },
  {
+  "address": "0:f7454e1f1468d1bf260bbda03843ad44acb44e3707f01fbd99117fee8fa18e3a",
+  "description": "PoolPepe is a digital asset inspired by a popular Telegram gift. It combines meme culture with community liquidity, creating a sustainable ecosystem for holders and early participants. The token creator is @poolpepe on Telegram.",
+  "image": "https://cdn.blum.codes/86817b36-118b-449a-958b-d6915786f3da/8ff13a63-e87a-4a14-9904-4a47422adb32",
+  "name": "POOLPEPE",
+  "social": [
+   "https://t.me/plpphold",
+   "https://x.com/poolpepehold"
+  ],
+  "symbol": "PLPP"
+ },
+ {
   "address": "0:9051b314a9c9ba358afa41d7c8977477484dbcc14a685f9d596bad38c7d0526c",
   "description": "Plush Pepe coin",
   "image": "https://plushpepecoin.github.io/logo200.png",
